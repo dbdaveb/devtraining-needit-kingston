@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_properties_category">
+    <sys_properties_category action="INSERT_OR_UPDATE">
+        <name>NeedIt Properties</name>
+        <sys_class_name>sys_properties_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-06-27 21:23:55</sys_created_on>
+        <sys_id>32409050dbc31300c007aab35b9619f9</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>NeedIt Properties</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_properties_category_32409050dbc31300c007aab35b9619f9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-06-27 22:01:57</sys_updated_on>
+        <title><![CDATA[<ol style="list-style-position: inside;"><li><img style="align: baseline;" title="" src="sys_attachment.do?sys_id&#61;ef299c54dbc31300c007aab35b96198e" alt="" align="baseline" border="0" hspace="-1" vspace="0" /><strong><span style="font-family: impact,chicago;">Needit Properties Page</span></strong></li></ol>]]></title>
+    </sys_properties_category>
+    <sys_translated_text action="delete_multiple" query="documentkey=32409050dbc31300c007aab35b9619f9"/>
+</record_update>
